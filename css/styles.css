@@ -44,7 +44,7 @@ hr {
 a {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
-  text-decoration: none;
+  text-decoration:underline, wavy;
   margin: 10px 20px;
 }
 
@@ -72,10 +72,6 @@ a:hover {
   padding: 50px 0 20px;
   margin-top: 100px;
   margin-bottom: 0;
-}
-
-.table {
-  padding
 }
 
 .skills {
